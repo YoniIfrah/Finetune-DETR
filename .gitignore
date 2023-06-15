@@ -2,4 +2,4 @@ venv/
 detr/
 custom/
 fridgeit_dataset/
-_MACOSX/
+__MACOSX/
