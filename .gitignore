@@ -1,2 +1,4 @@
 venv/ 
 detr/
+custom/
+fridgeit_dataset/
